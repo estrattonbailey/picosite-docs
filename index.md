@@ -7,13 +7,12 @@ description: A really very tiny site generator.
 
 * * *
 
-[getting started](/docs/getting-started)
-[docs](/docs)
+[getting started](/docs/getting-started) • [docs](/docs)
 
 * * *
 
 Picosite is intended to be one the easiest ways to publish a blog or other
-website.  Here's the source for this page:
+website.  *Here's the source for this page:*
 
 ```html
 <!DOCTYPE html>
