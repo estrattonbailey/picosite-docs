@@ -4,9 +4,13 @@ description: Getting started with picosite.
 ---
 # Getting started
 
+* * *
+
 [home](/)
 
-## Install
+* * *
+
+### Install
 ```html
 <!DOCTYPE html>
 <html>
