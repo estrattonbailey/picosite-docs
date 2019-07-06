@@ -2,14 +2,12 @@
 title: picosite
 description: A really very tiny site generator.
 ---
-# picosite
-### A really very tiny site generator.
-
-* * *
-
 [getting started](/docs/getting-started) • [docs](/docs)
 
 * * *
+
+# picosite
+### A really very tiny site generator.
 
 Picosite is intended to be one the easiest ways to publish a blog or other
 website.  *Here's the source for this page:*

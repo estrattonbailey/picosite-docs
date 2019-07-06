@@ -2,13 +2,11 @@
 title: docs | picosite
 description: Documentation for picosite.
 ---
-# docs
-
-* * *
-
 [home](/)
 
 * * *
+
+# docs
 
 - [Getting started](/docs/getting-started)
   - Installation

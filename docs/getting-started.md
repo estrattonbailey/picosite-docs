@@ -2,13 +2,11 @@
 title: Getting started | docs | picosite
 description: Getting started with picosite.
 ---
-# Getting started
-
-* * *
-
 [home](/)
 
 * * *
+
+# Getting started
 
 ### Install
 ```html
